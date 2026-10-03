@@ -1,0 +1,121 @@
+{
+  "Programming Languages": [
+    {"name": "Python", "regex": "python"},
+    {"name": "JavaScript", "regex": "javascript|js|node\\.js"},
+    {"name": "Java", "regex": "java(?!script)"},
+    {"name": "C++", "regex": "c\\+\\+"},
+    {"name": "C#", "regex": "c#|c-sharp"},
+    {"name": "Ruby", "regex": "ruby"},
+    {"name": "PHP", "regex": "php"},
+    {"name": "Swift", "regex": "swift"},
+    {"name": "Kotlin", "regex": "kotlin"},
+    {"name": "Go", "regex": "go(lang)?"},
+    {"name": "Rust", "regex": "rust"},
+    {"name": "TypeScript", "regex": "typescript|ts"},
+    {"name": "SQL", "regex": "sql|mysql|postgresql|oracle"},
+    {"name": "HTML", "regex": "html|html5"},
+    {"name": "CSS", "regex": "css|css3|sass|scss"}
+  ],
+  "Frameworks & Libraries": [
+    {"name": "React", "regex": "react(\\.js)?"},
+    {"name": "Angular", "regex": "angular"},
+    {"name": "Vue.js", "regex": "vue(\\.js)?"},
+    {"name": "Django", "regex": "django"},
+    {"name": "Flask", "regex": "flask"},
+    {"name": "Spring Boot", "regex": "spring boot|spring"},
+    {"name": "Express.js", "regex": "express(\\.js)?"},
+    {"name": "Laravel", "regex": "laravel"},
+    {"name": "ASP.NET", "regex": "asp\\.net|\\.net core"},
+    {"name": "Flutter", "regex": "flutter"},
+    {"name": "React Native", "regex": "react native"},
+    {"name": "TensorFlow", "regex": "tensorflow|tf"},
+    {"name": "PyTorch", "regex": "pytorch"},
+    {"name": "Pandas", "regex": "pandas"},
+    {"name": "NumPy", "regex": "numpy"},
+    {"name": "Scikit-Learn", "regex": "scikit-learn|sklearn"},
+    {"name": "Bootstrap", "regex": "bootstrap"},
+    {"name": "Tailwind CSS", "regex": "tailwind"}
+  ],
+  "Tools & Technologies": [
+    {"name": "Git", "regex": "git|github|gitlab|bitbucket"},
+    {"name": "Docker", "regex": "docker"},
+    {"name": "Kubernetes", "regex": "kubernetes|k8s"},
+    {"name": "AWS", "regex": "aws|amazon web services"},
+    {"name": "Azure", "regex": "azure|microsoft azure"},
+    {"name": "Google Cloud", "regex": "gcp|google cloud"},
+    {"name": "Jenkins", "regex": "jenkins"},
+    {"name": "Jira", "regex": "jira"},
+    {"name": "Postman", "regex": "postman"},
+    {"name": "Redis", "regex": "redis"},
+    {"name": "MongoDB", "regex": "mongodb|mongo"},
+    {"name": "Elasticsearch", "regex": "elasticsearch"},
+    {"name": "Nginx", "regex": "nginx"},
+    {"name": "Apache", "regex": "apache"},
+    {"name": "Linux", "regex": "linux|ubuntu|debian|centos"},
+    {"name": "GraphQL", "regex": "graphql"}
+  ],
+  "Soft Skills": [
+    {"name": "Leadership", "regex": "leadership|leading"},
+    {"name": "Communication", "regex": "communication|public speaking"},
+    {"name": "Problem Solving", "regex": "problem solving|troubleshooting"},
+    {"name": "Teamwork", "regex": "teamwork|collaboration|collaborative"},
+    {"name": "Time Management", "regex": "time management|prioritization"},
+    {"name": "Critical Thinking", "regex": "critical thinking"},
+    {"name": "Creativity", "regex": "creativity|creative"},
+    {"name": "Adaptability", "regex": "adaptability|flexible"},
+    {"name": "Conflict Resolution", "regex": "conflict resolution"},
+    {"name": "Emotional Intelligence", "regex": "emotional intelligence|eq"},
+    {"name": "Project Management", "regex": "project management|agile|scrum|kanban"}
+  ],
+  "Data & AI": [
+    {"name": "Machine Learning", "regex": "machine learning|ml"},
+    {"name": "Deep Learning", "regex": "deep learning|dl"},
+    {"name": "Data Analysis", "regex": "data analysis|data analytics"},
+    {"name": "Data Science", "regex": "data science"},
+    {"name": "Big Data", "regex": "big data|hadoop|spark"},
+    {"name": "Computer Vision", "regex": "computer vision|cv"},
+    {"name": "NLP", "regex": "nlp|natural language processing"},
+    {"name": "Statistics", "regex": "statistics|statistical analysis"},
+    {"name": "Power BI", "regex": "power bi"},
+    {"name": "Tableau", "regex": "tableau"}
+  ],
+  "Web Development": [
+    {"name": "Front-end", "regex": "front-end|frontend|client-side"},
+    {"name": "Back-end", "regex": "back-end|backend|server-side"},
+    {"name": "Full-stack", "regex": "full-stack|fullstack"},
+    {"name": "REST API", "regex": "rest api|restful"},
+    {"name": "WebSockets", "regex": "websockets"},
+    {"name": "SEO", "regex": "seo|search engine optimization"},
+    {"name": "UI/UX", "regex": "ui/ux|user interface|user experience"}
+  ],
+  "Mobile Development": [
+    {"name": "Android", "regex": "android"},
+    {"name": "iOS", "regex": "ios|iphone"},
+    {"name": "Mobile Design", "regex": "mobile design"}
+  ],
+  "Cloud & DevOps": [
+    {"name": "CI/CD", "regex": "ci/cd|continuous integration|continuous deployment"},
+    {"name": "Terraform", "regex": "terraform"},
+    {"name": "Ansible", "regex": "ansible"},
+    {"name": "Cloud Computing", "regex": "cloud computing"},
+    {"name": "Serverless", "regex": "serverless|lambda"}
+  ],
+  "Cybersecurity": [
+    {"name": "Network Security", "regex": "network security"},
+    {"name": "Penetration Testing", "regex": "penetration testing|pentesting"},
+    {"name": "Encryption", "regex": "encryption|cryptography"},
+    {"name": "Firewall", "regex": "firewall"}
+  ],
+  "Other": [
+    {"name": "Excel", "regex": "excel|microsoft excel|spreadsheet"},
+    {"name": "Word", "regex": "word|microsoft word"},
+    {"name": "PowerPoint", "regex": "powerpoint|ppt"},
+    {"name": "Photoshop", "regex": "photoshop"},
+    {"name": "Illustrator", "regex": "illustrator"},
+    {"name": "Figma", "regex": "figma"},
+    {"name": "Sketch", "regex": "sketch"},
+    {"name": "Marketing", "regex": "marketing"},
+    {"name": "Sales", "regex": "sales"},
+    {"name": "Customer Service", "regex": "customer service|customer support"}
+  ]
+}
